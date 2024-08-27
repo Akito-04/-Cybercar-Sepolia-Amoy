@@ -35,25 +35,34 @@ Here’s a step-by-step guide for bridging your NFTs:
 
 2. Install Dependencies:
    - Run the following command to install all necessary dependencies:
+    ````
          npm i
+    ````
      
    - Install OpenZeppelin Contracts:
+        ````
          npm install @openzeppelin/contracts
+        ````
      
 3. Deploy the ERC-721A Contract:
    - Deploy your contract to the Sepolia network:
+        ```
          npx hardhat run scripts/deploy.js --network sepolia
+        ```
      
 4. Update Scripts with Contract Address:
    - Paste the newly deployed contract address into the tokenAddress variable in the mint.js and approveDeposit.js files.
 
 5. Mint NFTs:
    - Mint NFTs to your wallet:
+        ```
          npx hardhat run scripts/mint.js --network sepolia
+        ```
      
 6. Approve and Deposit NFTs:
    - Approve and deposit your NFTs to the Polygon network:
-         npx hardhat run scripts/approveDeposit.js --network sepolia
+         ```npx hardhat run scripts/approveDeposit.js --network sepolia
+     ```
      
 7. Wait for Confirmation:
    - Allow 20-30 minutes for the tokens to appear on the Polygon network.
@@ -64,7 +73,9 @@ Here’s a step-by-step guide for bridging your NFTs:
 9. Check Balance on Polygon:
    - Update the tokenAddress in your getBalance script with the Polygon contract address.
    - Run the following command to check your new Polygon balance:
+        ```
          npx hardhat run scripts/getBalance.js --network amoy
+        ```
 ## Help
 Main issues That Tend To Encounter:
 * Having No SepoliaETH:(
