@@ -80,23 +80,23 @@ Here’s a step-by-step guide for bridging your NFTs:
          npx hardhat run scripts/getBalance.js --network amoy
         ```
 ## Help
-Main issues That Tend To Encounter:
-* Having No SepoliaETH:(
+
+* You Can Get Free SepoliaETH From :(
  sol:)Go To [SepoliaPoW](https://sepolia-faucet.pk910.de/) ,Still Cant Get Contact Me
 
-* If You Have To Phase Any Sort Of Dificulties Or Errors Feel Free To Approach Me I Will Be More Happy To Help You
+* If you happen to encounter any error allow me to guide you by informing me by Email:
 ```
-amarnath759498@gmail.com
+afsalmy04@gmail.com
 ```
 
 ## Authors
 
 Contributors names and contact info
 
-Shadow Known As amar
-ex. [@Amar](amarnath759498@gmail.com)
+Shadow Known As Afsal
+ex. [@Akito](afsalmy04@gmail.com)
 
 
 ## License
 
-This project is licensed under the [AMAR] License - see the LICENSE.md file for details
+This project is licensed under the [AKITO] License - see the LICENSE.md file for details
