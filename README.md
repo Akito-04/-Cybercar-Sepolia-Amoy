@@ -61,7 +61,8 @@ Here’s a step-by-step guide for bridging your NFTs:
      
 6. Approve and Deposit NFTs:
    - Approve and deposit your NFTs to the Polygon network:
-         ```
+
+     ```
      npx hardhat run scripts/approveDeposit.js --network sepolia
      
      ```
@@ -77,7 +78,6 @@ Here’s a step-by-step guide for bridging your NFTs:
    - Run the following command to check your new Polygon balance:
         ```
          npx hardhat run scripts/getBalance.js --network amoy
-        
         ```
 ## Help
 Main issues That Tend To Encounter:
