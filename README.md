@@ -9,7 +9,7 @@ This project provides a comprehensive guide on:
 3. Deploying the contract on the Sepolia network.
 4. Batch minting NFTs (ERC-721A) to your wallet.
 5. Approving the contract for FxBridge and connecting to the Amoy network using Fx contracts.
-6. Depositing NFTs to the Amoy network and waiting 20-30 minutes for them to appear.
+6. Depositing NFTs to the Amoy network and waiting 15-20 minutes for them to appear.
 7. Checking your wallet balance on the Amoy network using Polyscan contract address.
 
 ## Getting started
@@ -93,8 +93,8 @@ afsalmy04@gmail.com
 
 Contributors names and contact info
 
-Shadow Known As Afsal
-ex. [@Akito](afsalmy04@gmail.com)
+ Known As Afsal
+ [@Akito](afsalmy04@gmail.com)
 
 
 ## License
